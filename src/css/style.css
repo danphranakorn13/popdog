@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-shadow-black{
+    text-shadow: 4px 4px black;
+}
